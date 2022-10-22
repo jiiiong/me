@@ -1,0 +1,16 @@
+参考论文列表
+XRP: In-Kernel Storage Functions with eBPF, OSDI 2022 best paper
+Syrup: User-Defined Scheduling Across the Stack, SOSP 2021
+ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling,SOSP 2021
+Extension Framework for File Systems in User-space,ATC 2019
+eBPF：The next power tool of SRE’s
+一些参考资料，在上面论文的文献里面也有
+《bpf performance tools》
+https://github.com/iovisor/bcc
+https://github.com/datenlord
+https://ebpf.io/what-is-ebpf/
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html/container_security_guide/linux_capabilities_and_seccomp
+
+
+之前夏老师和我带学生打比赛的拿奖项目(全国系统能力大赛一等奖)也是基于ebpf的，你也可以参考下:
+https://gitlab.eduxiji.net/CH3CHOHCH3/project788067-124730/-/tree/master
